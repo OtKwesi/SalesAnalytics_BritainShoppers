@@ -35,6 +35,7 @@ and VIP customers were almost evenly divided, though all three segments witnesse
 London had preponderant sales (£51.4k) and also had high fulfilment issues. Manchester was well behind with only £20.7k of contribution. Overall order fulfillment 
 at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies. While there was a healthy profit 
 margin (37.6%), key changes are necessary in logistics, customer experience, and geographic strategy to unlock more than £500k of revenue opportunity.  
+
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png)
 

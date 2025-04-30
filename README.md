@@ -27,5 +27,17 @@ Here is a snapshot of the dashboard created for this project:
 Prior to beginning the analysis, a variety of checks were conducted for data quality and validation and familiarisation of the datasets. The SQL queries
 utilised to inspect and perform quality check can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/748acc61a4378564ef3fe4583bc10460aa08c288/SQL_Data_Inspection_and_Validation_Checks.pdf)
 
+# Executive Summary  
+Overview of Findings  
+In FY 2024, British Shoppers Retail Outlet earned £159,771 in revenue, with Q3 accounting for almost one-third of yearly sales, making it a strategic significance
+contributor. September recorded the highest revenue for the month (£25,249), whereas February and November underperformed significantly. Sales from new, regular, 
+and VIP customers were almost evenly divided, though all three segments witnessed high cancellation rates of 28% that created retention threats. Geographically, 
+London had preponderant sales (£51.4k) and also had high fulfilment issues. Manchester was well behind with only £20.7k of contribution. Overall order fulfillment 
+at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies. While there was a healthy profit 
+margin (37.6%), key changes are necessary in logistics, customer experience, and geographic strategy to unlock more than £500k of revenue opportunity.  
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded
+![Dashboard Preview](image)
+
+
 
 

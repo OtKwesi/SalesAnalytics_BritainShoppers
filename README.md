@@ -22,3 +22,4 @@ Targeted SQL queries regarding various business questions can be found [here](SQ
 
 # Data Structure and Initial Checks
 Bristish Shoppers database structure as seen below consists of seven tables: sales, products,categories, customers, regions, sales_representatives and payment_methods with a total row count of 150 records.
+![Dashboard Preview](dashboard_screenshot.png)

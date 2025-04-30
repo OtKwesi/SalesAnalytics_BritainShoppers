@@ -5,6 +5,7 @@ The company has significant amount of data on it sales, marketing efforts, opera
 this data to uncover critical insights that will improve British Shoppers' commercial success. 
 
 Insights and recommendations are provided on the following key areas:
+- Sales Trend
 - Customer segmentation and sales performance:
 - Sales by location:
 - Order status and customer satisfaction:
@@ -12,11 +13,12 @@ Insights and recommendations are provided on the following key areas:
 - Sales team performance:
 
 The business report request can be found [here](Business_Report_Request.pdf).
+Full report answering the business questions can be found [here](Business_Report_Request)
 An interactive Excel dashboard can be downloaded [here](Dashboard.xlsx)
 The SQL queries utilised to inspect and perform quality checks can be found [here](SQL_Data_Inspection_and_Validation_Checks)
 The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here](SQL_Data_Cleaning)
 Targeted SQL queries regarding various business questions can be found [here](SQL_Business_Analysis_Queries)
-Full report answering the business questions can be found [here](Business_Report_Request)
+
 
 # Data Structure and Initial Checks
 Bristish Shoppers database structure as seen below consists of seven tables: sales, products,categories, customers, regions, sales_representatives and payment_methods with a total row count of 150 records.

@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - Top performing products and sales performance:
 - Sales team performance:
 
-The business report request can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/748acc61a4378564ef3fe4583bc10460aa08c288/SQL_Data_Inspection_and_Validation_Checks.pdf)  
+The business report request can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/e9fb8d1a89eab8c8c524fbcf692ebb2346582289/Business_Report_Request.pdf)  
 Full report answering the business questions can be found [here](Business_Report_Request)  
 An interactive Excel dashboard can be downloaded [here](Dashboard.xlsx)  
 The SQL queries utilised to inspect and perform quality checks can be found [here](SQL_Data_Inspection_and_Validation_Checks)  

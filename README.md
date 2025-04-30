@@ -28,7 +28,7 @@ Prior to beginning the analysis, a variety of checks were conducted for data qua
 utilised to inspect and perform quality check can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/748acc61a4378564ef3fe4583bc10460aa08c288/SQL_Data_Inspection_and_Validation_Checks.pdf)
 
 # Executive Summary  
-Overview of Findings  
+# Overview of Findings  
 
 In FY 2024, British Shoppers Retail Outlet earned £159,771 in revenue, with Q3 accounting for almost one-third of yearly sales, making it a strategic significance
 contributor. September recorded the highest revenue for the month (£25,249), whereas February and November underperformed significantly. Sales from new, regular, 

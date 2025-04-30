@@ -23,6 +23,9 @@ Targeted SQL queries regarding various business questions can be found [here](SQ
 # Data Structure and Initial Checks
 Bristish Shoppers database structure as seen below consists of seven tables: sales, products,categories, customers, regions, sales_representatives and payment_methods with a total row count of 150 records.  
 Here is a snapshot of the dashboard created for this project:
+![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/main/SQL_Database_Schema_page.jpg?raw=true)  
+Prior to beginning the analysis, a variety of checks were conducted for data quality and validation and familiarisation of the datasets. The SQL queries
+utilised to inspect and perform quality check can be found [here](SQL_Data_Inspection_and_Validation_Checks)
 
-![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/main/SQL_Database_Schema_page.jpg?raw=true)
+
 

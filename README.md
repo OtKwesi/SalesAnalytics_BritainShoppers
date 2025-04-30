@@ -29,6 +29,7 @@ utilised to inspect and perform quality check can be found [here](https://github
 
 # Executive Summary  
 Overview of Findings  
+
 In FY 2024, British Shoppers Retail Outlet earned £159,771 in revenue, with Q3 accounting for almost one-third of yearly sales, making it a strategic significance
 contributor. September recorded the highest revenue for the month (£25,249), whereas February and November underperformed significantly. Sales from new, regular, 
 and VIP customers were almost evenly divided, though all three segments witnessed high cancellation rates of 28% that created retention threats. Geographically, 

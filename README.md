@@ -12,12 +12,12 @@ Insights and recommendations are provided on the following key areas:
 - Top performing products and sales performance:
 - Sales team performance:
 
-The business report request can be found [here](Business_Report_Request.pdf).
-Full report answering the business questions can be found [here](Business_Report_Request)
-An interactive Excel dashboard can be downloaded [here](Dashboard.xlsx)
-The SQL queries utilised to inspect and perform quality checks can be found [here](SQL_Data_Inspection_and_Validation_Checks)
-The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here](SQL_Data_Cleaning)
-Targeted SQL queries regarding various business questions can be found [here](SQL_Business_Analysis_Queries)
+The business report request can be found [here](Business_Report_Request.pdf).  
+Full report answering the business questions can be found [here](Business_Report_Request)  
+An interactive Excel dashboard can be downloaded [here](Dashboard.xlsx)  
+The SQL queries utilised to inspect and perform quality checks can be found [here](SQL_Data_Inspection_and_Validation_Checks)  
+The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here](SQL_Data_Cleaning)  
+Targeted SQL queries regarding various business questions can be found [here](SQL_Business_Analysis_Queries)  
 
 
 # Data Structure and Initial Checks

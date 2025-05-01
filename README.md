@@ -70,7 +70,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Electronics** earned **£29,233**, maintaining a steady mid-tier sales position. Leveraging influencer partnerships and aligning promotions with seasonal trends could drive higher visibility and conversions.
 - **Clothing** underperformed at **£13,110**, signalling the need for strategic changes. A/B testing of assortments, pricing, and promotions is advised to identify opportunities for improvement.
 
-**Recommendations:**
+# Recommendations
   
 - Reduce cancellations by 15% in Q1 via automated inventory alerts and expedited shipping options while relocating 20% of Manchester's budget to London or Leeds for higher ROI.
 - Launching clothing promotions (e.g. Buy 1, Get 1 Half Price) tied to sports purchases and introduce VIP-exclusive beauty bundles to boost low-performing categories.

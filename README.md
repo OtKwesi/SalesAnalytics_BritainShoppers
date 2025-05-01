@@ -51,5 +51,5 @@ Monthly Performance:
 - Spring Recovery: A gradual recovery was observed from March to April, with April recording £17,026 in revenue. This improvement suggests increased purchasing activity during the spring, possibly linked to promotional campaigns or product launches.
 - Mid-Year Dip: Sales remained relatively stable from May through August, fluctuating between £11,942 and £14,653. These months represent a plateau in performance, indicating steady but unspectacular consumer activity during mid-year.
 - Late-Year Underperformance: October through December showed lower performance, with November recording the lowest monthly total of £6,966. Despite seasonal expectations, late-year sales underperformed, possibly due to shifting consumer behaviour or lower promotional effectiveness.
-![Dashboard Preview](http.png)
+![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/24b8d070b273f0e3adcf014e22c0b530c6313ca9/Avg_Monthly_Sales.png)
 

@@ -38,6 +38,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png).
 
+# Findings
 **Sales Trend Analysis:**  
   
 - **September Peak:** Total sales peaked in September 2024 with **£25,249** in revenue. This significant uptick aligns with seasonal purchasing trends, potentially driven by early holiday shopping.  

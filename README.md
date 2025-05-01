@@ -38,7 +38,7 @@ While there was a **healthy profit margin (37.6%)**, key changes are necessary i
 
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx)  
 
-![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png)
+![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png).
 
 **Sales Trend Analysis:**  
   

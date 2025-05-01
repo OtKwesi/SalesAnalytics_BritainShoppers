@@ -30,23 +30,18 @@ utilised to inspect and perform quality check can be found [here](https://github
 # Executive Summary  
 **Overview of Findings**    
 
-In FY 2024, British Shoppers Retail Outlet earned **£159,771** in revenue, with Q3 accounting for almost one-third of yearly sales, making it a strategic  
-significance contributor. September recorded the highest revenue for the month (£25,249), whereas February and November underperformed significantly. Sales from 
-new, regular, and VIP customers were almost evenly divided, though all three segments witnessed high cancellation rates of 28% that created retention threats.  
-Geographically, London had preponderant sales (£51.4k) and also had high fulfilment issues. Manchester was well behind with only £20.7k of contribution. Overall 
-order fulfillment at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies. While there was a 
-healthy profit margin (37.6%), key changes are necessary in logistics, customer experience, and geographic strategy to unlock more than £1M+ of revenue  
-opportunity. 
+In FY 2024, British Shoppers Retail Outlets earned **£159,771** in revenue, with Q3 accounting for almost one-third of yearly sales averaging monthly sales of **£13,314 **making it a strategic significance contributor. **September** recorded the highest revenue for the month **(£25,249)**, whereas **February and November underperformed** significantly.  
+Sales from new, regular, and VIP customers were almost evenly divided, though all three segments witnessed **high cancellation order rates of 28%** that created retention threats.  
+Geographically, **London** had preponderant sales (£51.4k) and also had high fulfilment of orders. Manchester was well behind with only £20.7k of contribution.  
+Overall order fulfillment at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies.  
+While there was a **healthy profit margin (37.6%)**, key changes are necessary in logistics, customer experience, and geographic strategy to unlock more than £1M+ of revenue opportunity.
+
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx)  
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png)
 
-**Sales Trend Analysis**  
-
-**Annual Overview:**   
-Full-year revenue totalled £159,771, with the strongest quarter being Q3 (July–September), contributing £50,473 or nearly 32% of annual sales. 
-This concentration of revenue highlights the importance of Q3 for future planning and marketing efforts.  
-Monthly Performance:  
+**Sales Trend Analysis:**  
+  
 - September Peak: Total sales peaked in September 2024 with £25,249 in revenue. This significant uptick aligns with seasonal purchasing trends, potentially driven by early holiday shopping.  
 - Post-Holiday Slump: Sales dropped sharply in February, hitting a yearly low of £8,639. This post-holiday slump reflects a common seasonal pattern, where consumer spending declines after strong January spending.  
 - Spring Recovery: A gradual recovery was observed from March to April, with April recording £17,026 in revenue. This improvement suggests increased purchasing activity during the spring, possibly linked to promotional campaigns or product launches.

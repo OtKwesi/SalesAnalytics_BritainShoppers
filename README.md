@@ -30,7 +30,7 @@ utilised to inspect and perform quality check can be found [here](https://github
 # Executive Summary  
 **Overview of Findings**    
 
-In FY 2024, British Shoppers Retail Outlets earned **£159,771** in revenue, with Q3 accounting for almost one-third of yearly sales averaging monthly sales of **£13,314 **making it a strategic significance contributor. **September** recorded the highest revenue for the month **(£25,249)**, whereas **February and November underperformed** significantly.
+In FY 2024, British Shoppers Retail Outlets earned **£159,771** in revenue, with **Q3** accounting for almost one-third of yearly sales averaging monthly sales of **£13,314 **making it a strategic significance contributor. **September** recorded the highest revenue for the month **(£25,249)**, whereas **February and November underperformed** significantly.
 Sales from new, regular, and VIP customers were almost evenly divided, though all three segments witnessed **high cancellation order rates of 28%** that created retention threats.
 Geographically, **London** had preponderant sales (£51.4k) and also had high fulfilment of orders. Manchester was well behind with only £20.7k of contribution.
 Overall order fulfillment at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies.
@@ -42,31 +42,31 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 **Sales Trend Analysis:**  
   
-- September Peak: Total sales peaked in September 2024 with £25,249 in revenue. This significant uptick aligns with seasonal purchasing trends, potentially driven by early holiday shopping.  
-- Post-Holiday Slump: Sales dropped sharply in February, hitting a yearly low of £8,639. This post-holiday slump reflects a common seasonal pattern, where consumer spending declines after strong January spending.  
-- Spring Recovery: A gradual recovery was observed from March to April, with April recording £17,026 in revenue. This improvement suggests increased purchasing activity during the spring, possibly linked to promotional campaigns or product launches.
-- Mid-Year Dip: Sales remained relatively stable from May through August, fluctuating between £11,942 and £14,653. These months represent a plateau in performance, indicating steady but unspectacular consumer activity during mid-year.
-- Late-Year Underperformance: October through December showed lower performance, with November recording the lowest monthly total of £6,966. Despite seasonal expectations, late-year sales underperformed, possibly due to shifting consumer behaviour or lower promotional effectiveness.
+- **September Peak:** Total sales peaked in September 2024 with **£25,249** in revenue. This significant uptick aligns with seasonal purchasing trends, potentially driven by early holiday shopping.  
+- **Post-Holiday Slump:** Sales dropped sharply in February, hitting a yearly **low of £8,639**. This post-holiday slump reflects a common seasonal pattern, where consumer spending declines after strong January spending.  
+- **Spring Recovery:** A gradual recovery was observed from **March to April**, with April recording £17,026 in revenue. This improvement suggests increased purchasing activity during the spring, possibly linked to promotional campaigns or product launches.
+- **Mid-Year Dip:** Sales remained relatively **stable from May through August**, fluctuating between £11,942 and £14,653. These months represent a plateau in performance, indicating steady but unspectacular consumer activity during mid-year.
+- **Late-Year Underperformance:** **October through December showed lower performance**, with November recording the lowest monthly total of £6,966. Despite seasonal expectations, late-year sales underperformed, possibly due to shifting consumer behaviour or lower promotional effectiveness.
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/24b8d070b273f0e3adcf014e22c0b530c6313ca9/Avg_Monthly_Sales.png)  
 
 **Sales by Location:**  
 
-- London led with £51,366 in sales (32.2% of total) and £21,181 profit, but a high 26% order cancellation rate indicates significant fulfilment challenges.
-- Oxford generated £46,325 in sales but underperformed relative to its affluent market potential, suggesting operational inefficiencies that need to be addressed.
-- Leeds achieved £41,366 in sales with moderate performance, presenting an opportunity to optimize inventory-especially in sports and home goods categories.
-- Manchester significantly underperformed with £20,714 in sales (average £6.7k), requiring a root-cause analysis focusing on factors like foot traffic and local competition.  
+- **London** led with **£51,366** in sales (32.2% of total) and £21,181 profit, but a high 26% order cancellation rate indicates significant fulfilment challenges.
+- **Oxford** generated £46,325 in sales but **underperformed relative to its affluent market** potential, suggesting operational inefficiencies that need to be addressed.
+- **Leeds** achieved **£41,366** in sales with moderate performance, presenting an **opportunity to optimize inventory**, especially in sports and home goods categories.
+- **Manchester** significantly **underperformed with £20,714** in sales (average £6.7k), requiring a root-cause analysis focusing on factors like foot traffic and local competition.  
 
 **Customer Segmentation Analysis:**    
 
-- New Customers: Electronics, sports, and beauty lead sales; clothing underperforms. London generates nearly half of new customer revenue, while Oxford remains underdeveloped. A 20% cancellation rate signals fulfilment risks impacting retention.
-- Regular Customers: Home goods and sports categories are strong; clothing lags. Manchester’s low sales and a high 28% cancellation rate reveal loyalty and operational challenges. October’s revenue dip suggests a need for off-peak promotions.
-- VIP Customers: Sports and home goods dominate spend, but beauty underperforms despite premium potential. Leeds and Oxford lead in VIP revenue, yet a 26% cancellation rate and 30% pending orders threaten high-value relationships.
+- **New Customers**: Electronics, sports, and beauty lead sales; clothing underperforms. London generates nearly half of new customer revenue, while Oxford remains underdeveloped. A 20% cancellation rate signals fulfilment risks impacting retention.
+- **Regular Customers**: Home goods and sports categories are strong; clothing lags. Manchester’s low sales and a high 28% cancellation rate reveal loyalty and operational challenges. October’s revenue dip suggests a need for off-peak promotions.
+- **VIP Customers**: Sports and home goods dominate spend, but beauty underperforms despite premium potential. Leeds and Oxford lead in VIP revenue, yet a 26% cancellation rate and 30% pending orders threaten high-value relationships.
   
 **Performance Ranking of Products:**  
 
-- Sports led all categories with £44,989 in revenue, demonstrating strong appeal across customer segments. Bundling strategies are recommended to further boost average order value and retention.  
-- Home Goods generated £41,024, with stable and geographically diverse demand. Expanding the product range in top-performing regions could help capture additional market share.  
-- Beauty cateogry achieved moderate results with £31,414 in revenue. Growth can be stimulated through loyalty programs and price sensitivity testing.  
-- Electronics earned £29,233, maintaining a steady mid-tier sales position. Leveraging influencer partnerships and aligning promotions with seasonal trends could drive higher visibility and conversions.
-- Clothing underperformed at £13,110, signalling the need for strategic changes. A/B testing of assortments, pricing, and promotions is advised to identify opportunities for improvement.
+- **Sports** led all categories with £44,989 in revenue, demonstrating strong appeal across customer segments. Bundling strategies are recommended to further boost average order value and retention.  
+- **Home Goods** generated £41,024, with stable and geographically diverse demand. Expanding the product range in top-performing regions could help capture additional market share.  
+- **Beauty cateogry** achieved moderate results with £31,414 in revenue. Growth can be stimulated through loyalty programs and price sensitivity testing.  
+- **Electronics** earned £29,233, maintaining a steady mid-tier sales position. Leveraging influencer partnerships and aligning promotions with seasonal trends could drive higher visibility and conversions.
+- **Clothing** underperformed at £13,110, signalling the need for strategic changes. A/B testing of assortments, pricing, and promotions is advised to identify opportunities for improvement.

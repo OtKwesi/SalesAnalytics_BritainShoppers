@@ -12,12 +12,12 @@ Insights and recommendations are provided on the following key areas:
 - Performance Ranking of Products  
 - Sales team performance 
 
-The business report request can be found [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/b58922b3fc808c211e38333b5bcdf1ce14fd0b62/Business%20Report%20Request.pdf)  
-Full report answering the business questions can be found [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/5a5a407c9a9db5439f9d96b0217488a72a55f23d/Final%20_Sales%20_Report.pdf)  
-An interactive Excel dashboard can be downloaded [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx)  
-The SQL queries utilised to inspect and perform quality checks can be found [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/48a71fcac7b70b1c54e678200be5c85f16934bd1/SQL_Data_Inspection_and_Validation_Checks.pdf)  
-The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/496dfd06733417c31896a589de1dc1203e30cbec/SQL_Data_Cleaning.pdf)  
-Targeted SQL queries regarding various business questions can be found [here].(https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/4927e29b299aa9b64df5e7c7f236f7ed53851da2/SQL_Business_Analysis_Queries.pdf)  
+The business report request can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/b58922b3fc808c211e38333b5bcdf1ce14fd0b62/Business%20Report%20Request.pdf).    
+Full report answering the business questions can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/5a5a407c9a9db5439f9d96b0217488a72a55f23d/Final%20_Sales%20_Report.pdf).    
+An interactive Excel dashboard can be downloaded [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx).    
+The SQL queries utilised to inspect and perform quality checks can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/48a71fcac7b70b1c54e678200be5c85f16934bd1/SQL_Data_Inspection_and_Validation_Checks.pdf).    
+The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/496dfd06733417c31896a589de1dc1203e30cbec/SQL_Data_Cleaning.pdf).   
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/4927e29b299aa9b64df5e7c7f236f7ed53851da2/SQL_Business_Analysis_Queries.pdf).    
 
 
 # Data Structure and Initial Checks

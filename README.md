@@ -7,10 +7,8 @@ this data to uncover critical insights that will improve British Shoppers' comme
 Insights and recommendations are provided on the following key areas:
 - Sales Trend Analysis    
 - Customer Segmentation Analysis 
-- Sales by location  
-- Order status and customer satisfaction:  
+- Sales by location   
 - Performance Ranking of Products  
-- Sales team performance 
 
 The business report request can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/b58922b3fc808c211e38333b5bcdf1ce14fd0b62/Business%20Report%20Request.pdf).    
 Full report answering the business questions can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/5a5a407c9a9db5439f9d96b0217488a72a55f23d/Final%20_Sales%20_Report.pdf).    

@@ -25,7 +25,7 @@ Bristish Shoppers database structure as seen below consists of seven tables: sal
 Here is a snapshot of the dashboard created for this project:
 ![Schema Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/f8b152005d828b2678a70618c545baf617c0907f/SQL_Database_Schema_page%20(1).jpg)
 Prior to beginning the analysis, a variety of checks were conducted for data quality and validation and familiarisation of the datasets. The SQL queries
-utilised to inspect and perform quality check can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/748acc61a4378564ef3fe4583bc10460aa08c288/SQL_Data_Inspection_and_Validation_Checks.pdf)
+utilised to inspect and perform quality check can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/748acc61a4378564ef3fe4583bc10460aa08c288/SQL_Data_Inspection_and_Validation_Checks.pdf).
 
 # Executive Summary  
 **Overview of Findings**    
@@ -36,7 +36,7 @@ Geographically, **London** had preponderant sales (£51.4k) and also had high fu
 Overall order fulfillment at 47% fell short of industry norms, 25% cancellations, and 28% pending orders indicate systemic operational inefficiencies.
 While there was a **healthy profit margin (37.6%)**, key changes are necessary in logistics, customer experience, and geographic strategy to unlock more than £1M+ of revenue opportunity.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx)  
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/2479ff793efda6ba97eef6637eaa754a36833a65/Sales_Dashboard.xlsx).    
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png).
 
@@ -65,8 +65,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
   
 **Performance Ranking of Products:**  
 
-- **Sports** led all categories with £44,989 in revenue, demonstrating strong appeal across customer segments. Bundling strategies are recommended to further boost average order value and retention.  
-- **Home Goods** generated £41,024, with stable and geographically diverse demand. Expanding the product range in top-performing regions could help capture additional market share.  
-- **Beauty cateogry** achieved moderate results with £31,414 in revenue. Growth can be stimulated through loyalty programs and price sensitivity testing.  
-- **Electronics** earned £29,233, maintaining a steady mid-tier sales position. Leveraging influencer partnerships and aligning promotions with seasonal trends could drive higher visibility and conversions.
-- **Clothing** underperformed at £13,110, signalling the need for strategic changes. A/B testing of assortments, pricing, and promotions is advised to identify opportunities for improvement.
+- **Sports** led all categories with **£44,989** in revenue, demonstrating strong appeal across customer segments. Bundling strategies are recommended to further boost average order value and retention.  
+- **Home Goods** generated **£41,024**, with stable and geographically diverse demand. Expanding the product range in top-performing regions could help capture additional market share.  
+- **Beauty cateogry** achieved moderate results with **£31,414** in revenue. Growth can be stimulated through loyalty programs and price sensitivity testing.  
+- **Electronics** earned **£29,233**, maintaining a steady mid-tier sales position. Leveraging influencer partnerships and aligning promotions with seasonal trends could drive higher visibility and conversions.
+- **Clothing** underperformed at **£13,110**, signalling the need for strategic changes. A/B testing of assortments, pricing, and promotions is advised to identify opportunities for improvement.

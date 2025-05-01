@@ -41,6 +41,15 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/fd1352a12387adeba4f4b8e209a6eb813168307c/Dashboard.png)
 
-
-
+Sales Trend Analysis  
+Annual Overview:  
+Full-year revenue totalled £159,771, with the strongest quarter being Q3 (July–September), contributing £50,473 or nearly 32% of annual sales. 
+This concentration of revenue highlights the importance of Q3 for future planning and marketing efforts.  
+Monthly Performance:  
+- September Peak: Total sales peaked in September 2024 with £25,249 in revenue. This significant uptick aligns with seasonal purchasing trends, potentially driven by early holiday shopping.  
+- Post-Holiday Slump: Sales dropped sharply in February, hitting a yearly low of £8,639. This post-holiday slump reflects a common seasonal pattern, where consumer spending declines after strong January spending.  
+- Spring Recovery: A gradual recovery was observed from March to April, with April recording £17,026 in revenue. This improvement suggests increased purchasing activity during the spring, possibly linked to promotional campaigns or product launches.
+- Mid-Year Dip: Sales remained relatively stable from May through August, fluctuating between £11,942 and £14,653. These months represent a plateau in performance, indicating steady but unspectacular consumer activity during mid-year.
+- Late-Year Underperformance: October through December showed lower performance, with November recording the lowest monthly total of £6,966. Despite seasonal expectations, late-year sales underperformed, possibly due to shifting consumer behaviour or lower promotional effectiveness.
+![Dashboard Preview](http.png)
 

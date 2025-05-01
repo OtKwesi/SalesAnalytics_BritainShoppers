@@ -9,7 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - Customer Segmentation Analysis 
 - Sales by location  
 - Order status and customer satisfaction:  
-- Performing Ranking of Products  
+- Performance Ranking of Products  
 - Sales team performance 
 
 The business report request can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/b58922b3fc808c211e38333b5bcdf1ce14fd0b62/Business%20Report%20Request.pdf)  
@@ -55,13 +55,20 @@ Monthly Performance:
 
 ![Dashboard Preview](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/24b8d070b273f0e3adcf014e22c0b530c6313ca9/Avg_Monthly_Sales.png)  
 
+**Sales by Location:**  
+
+- London led with £51,366 in sales (32.2% of total) and £21,181 profit, but a high 26% order cancellation rate indicates significant fulfilment challenges.
+- Oxford generated £46,325 in sales but underperformed relative to its affluent market potential, suggesting operational inefficiencies that need to be addressed.
+- Leeds achieved £41,366 in sales with moderate performance, presenting an opportunity to optimize inventory-especially in sports and home goods categories.
+- Manchester significantly underperformed with £20,714 in sales (average £6.7k), requiring a root-cause analysis focusing on factors like foot traffic and local competition.  
+
 **Customer Segmentation Analysis:**    
 
 - New Customers: Electronics, sports, and beauty lead sales; clothing underperforms. London generates nearly half of new customer revenue, while Oxford remains underdeveloped. A 20% cancellation rate signals fulfilment risks impacting retention.
 - Regular Customers: Home goods and sports categories are strong; clothing lags. Manchester’s low sales and a high 28% cancellation rate reveal loyalty and operational challenges. October’s revenue dip suggests a need for off-peak promotions.
 - VIP Customers: Sports and home goods dominate spend, but beauty underperforms despite premium potential. Leeds and Oxford lead in VIP revenue, yet a 26% cancellation rate and 30% pending orders threaten high-value relationships.
   
-**Performing Ranking of Products:**  
+**Performance Ranking of Products:**  
 
 - Sports led all categories with £44,989 in revenue, demonstrating strong appeal across customer segments. Bundling strategies are recommended to further boost average order value and retention.  
 - Home Goods generated £41,024, with stable and geographically diverse demand. Expanding the product range in top-performing regions could help capture additional market share.  

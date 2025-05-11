@@ -18,7 +18,7 @@ The SQL queries utilised to clean, organise and prepare data for the dashboard c
 Targeted SQL queries regarding various business questions can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/4927e29b299aa9b64df5e7c7f236f7ed53851da2/SQL_Business_Analysis_Queries.pdf).    
 
 ## 🔁 Data and Sales Analytics Pipeline Overview
-This presents an end-to-end sales analytics solution for a UK retail dataset. It showcases everything from data sourcing and cleaning to analysis and dashboarding, all version-controlled and documented.
+This is an interactive diagram with hyperlinks that presents an end-to-end sales analytics solution for a UK retail dataset. It showcases everything from data sourcing and cleaning to analysis and dashboarding, all version-controlled and documented.
 
 ```mermaid
 flowchart TB

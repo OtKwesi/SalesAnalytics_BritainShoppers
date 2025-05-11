@@ -17,6 +17,89 @@ The SQL queries utilised to inspect and perform quality checks can be found [her
 The SQL queries utilised to clean, organise and prepare data for the dashboard can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/496dfd06733417c31896a589de1dc1203e30cbec/SQL_Data_Cleaning.pdf).   
 Targeted SQL queries regarding various business questions can be found [here](https://github.com/OtKwesi/SalesAnalytics_BritainShoppers/blob/4927e29b299aa9b64df5e7c7f236f7ed53851da2/SQL_Business_Analysis_Queries.pdf).    
 
+## 🔁 Data and Sales Analytics Pipeline Overview
+This presents an end-to-end sales analytics solution for a UK retail dataset. It showcases everything from data sourcing and cleaning to analysis and dashboarding, all version-controlled and documented.
+
+```mermaid
+flowchart TB
+    %% Data Source Layer
+    DB["Raw Sales DB\n(MySQL 8.0)\n150k rows\nMonthly Refresh"]:::storage
+    click DB "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/README.md"
+
+    %% Business Requirements
+    BRD["Business Report Request.pdf"]:::output
+    click BRD "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/Business Report Request.pdf"
+
+    %% ETL & Data Quality Layer
+    subgraph "ETL & Data Quality" 
+        direction TB
+        QA["Data Inspection & Validation SQL"]:::processing
+        click QA "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Data_Inspection_and_Validation_Checks.pdf"
+        Cleaning["Data Cleaning & Transformation SQL"]:::processing
+        click Cleaning "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Data_Cleaning.pdf"
+    end
+
+    %% Staging Schema
+    Staging["Cleaned/Staging Schema\n(Relational)"]:::storage
+
+    %% Analytical Query Layer
+    subgraph "Business Analysis Queries" 
+        direction TB
+        Trend["Trend Analysis Queries"]:::processing
+        Segmentation["Segmentation Queries"]:::processing
+        Geography["Geography Analysis Queries"]:::processing
+        Ranking["Ranking Analysis Queries"]:::processing
+        click Trend "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Business_Analysis_Queries.pdf"
+        click Segmentation "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Business_Analysis_Queries.pdf"
+        click Geography "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Business_Analysis_Queries.pdf"
+        click Ranking "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/SQL_Business_Analysis_Queries.pdf"
+    end
+
+    %% Reporting & Visualization Layer
+    Dashboard["Excel Dashboard\n(Excel 365\nODBC Connection)"]:::output
+    click Dashboard "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/Sales_Dashboard.xlsx"
+    PDF["Final_Sales_Report.pdf"]:::output
+    click PDF "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/Final_Sales_Report.pdf"
+
+    %% Version Control
+    GitHub["GitHub Repository\n(Version Control)"]:::version
+    click GitHub "https://github.com/otkwesi/salesanalytics_britainshoppers/blob/main/README.md"
+
+    %% Data Flow
+    BRD -->|Defines requirements| QA
+    DB -->|Raw data| QA
+    DB -->|Raw data| Cleaning
+    QA -->|Validated data| Staging
+    Cleaning -->|Cleaned data| Staging
+    Staging --> Trend
+    Staging --> Segmentation
+    Staging --> Geography
+    Staging --> Ranking
+    Trend -->|Query results| Dashboard
+    Segmentation --> Dashboard
+    Geography --> Dashboard
+    Ranking --> Dashboard
+    Dashboard -->|Export PDF| PDF
+
+    %% Version Control Links
+    GitHub -.-> DB
+    GitHub -.-> QA
+    GitHub -.-> Cleaning
+    GitHub -.-> Trend
+    GitHub -.-> Segmentation
+    GitHub -.-> Geography
+    GitHub -.-> Ranking
+    GitHub -.-> Dashboard
+    GitHub -.-> PDF
+    GitHub -.-> BRD
+
+    %% Styling
+    classDef storage fill:#add8e6,stroke:#333,stroke-width:1px
+    classDef processing fill:#90ee90,stroke:#333,stroke-width:1px
+    classDef output fill:#ffcc99,stroke:#333,stroke-width:1px
+    classDef version fill:#e0e0e0,stroke:#333,stroke-width:1px,stroke-dasharray: 5 5
+```
+
 
 # Data Structure and Initial Checks
 Bristish Shoppers database structure as seen below consists of seven tables: sales, products,categories, customers, regions, sales_representatives and payment_methods with a total row count of 150 records.  
